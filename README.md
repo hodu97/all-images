@@ -26,3 +26,8 @@
 # 전체 이미지 주소가 일괄적으로 나타남
 ![image](https://github.com/hodu97/all-images/assets/145514463/c5bc91e2-afa3-43f3-bcfa-c75abd1d942d)
 
+# 서버주소로 이미지 대량 다운받기
+https://imgdownloader.com/ko/
+
+# url 말고 google에 링크 붙혀넣기
+![image](https://github.com/hodu97/all-images/assets/145514463/11491279-4ebd-4d07-b10a-9cc77f4a1117)
